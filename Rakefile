@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "jquery_form_utils"
   gem.homepage = "http://github.com/kristianmandrup/jquery_form_utils"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{jQuery form and UI utils packaged for easy use with Rails 3}
+  gem.description = %Q{Enhance your Rails app with some nice jquery magic!}
   gem.email = "kmandrup@gmail.com"
   gem.authors = ["Kristian Mandrup"]
   # dependencies defined in Gemfile
